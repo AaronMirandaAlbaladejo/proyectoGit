@@ -1,7 +1,12 @@
-h1{
-    color: aquamarine;
+h1 {
+  color: aquamarine;
 }
 
-p{ 
-    color: red;
+p {
+  color: red;
+}
+
+p:last-child {
+  font-size: x-large;
+  color: blue;
 }
